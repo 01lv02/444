@@ -1,6 +1,6 @@
 tensorflow==2.9.1
 numpy
 tqdm==4.54.1
-opencv==4.7.0.68
+opencv-python==4.7.0.68
 argparse
 streamlit
