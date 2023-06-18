@@ -3,4 +3,4 @@ numpy
 tqdm==4.54.1
 opencv-python==4.7.0.68
 argparse
-
+streamlit
